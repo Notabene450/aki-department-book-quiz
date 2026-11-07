@@ -1,2 +1,5 @@
-# aki-department-book-quiz
-Acute Kidney Injury · Department Book · Quiz
+# Acute Kidney Injury · Department Book · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
